@@ -1,19 +1,23 @@
-<div align="center">
+ <div align="center">
 
 # ¡Hola! 👋 Soy Orlando Zelada
 
 ### Desarrollador de Software | Backend & Frontend
 
+<br/>
+
 <a href="https://www.linkedin.com/in/orlando-zeladagira-2b7bb036a/" target="_blank">
-  <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="50" height="50" alt="LinkedIn" title="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:orlandozeladagira@gmail.com">
-  <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" width="40" height="40" alt="Email" title="Email" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50" alt="Email" title="Email" style="filter: invert(1);"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://portafolio-or.netlify.app/" target="_blank">
-  <img src="https://www.svgrepo.com/show/220462/profile-portfolio.svg" width="40" height="40" alt="Portafolio" title="Portafolio" />
+  <img src="https://www.svgrepo.com/show/50761/portfolio.svg" width="50" height="50" alt="Portafolio" title="Portafolio"/>
 </a>
 
 </div>
@@ -26,7 +30,7 @@ Apasionado por la programación, el desarrollo web y la creación de soluciones 
 
 - 🔭 Actualmente desarrollando proyectos con **Java, Spring Boot y Node.js**.
 - 🌱 Mejorando mis habilidades en **arquitectura de software y contenedores**.
-- 📫 Contáctame en: **orlandozeladagira@gmail.com**
+- 📫 Contáctame en: [**orlandozeladagira@gmail.com**](mailto:orlandozeladagira@gmail.com)
 
 ---
 
@@ -35,23 +39,16 @@ Apasionado por la programación, el desarrollo web y la creación de soluciones 
 <div align="center">
 
 ### Lenguajes
-<img src="https://svgrepo.com" width="55" height="55" alt="Java" title="Java" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://svgrepo.com" width="55" height="55" alt="JavaScript" title="JavaScript" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://svgrepo.com" width="55" height="55" alt="Python" title="Python" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://svgrepo.com" width="55" height="55" alt="CSS3" title="CSS3" />
+
+<img src="https://skillicons.dev/icons?i=java,js,python,css&theme=dark" />
 
 ### Frameworks y Entornos
-<img src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="55" height="55" alt="Spring Boot" title="Spring Boot" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="55" height="55" alt="Node.js" title="Node.js" />
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" />
 
 ### Herramientas y DevOps
-<img src="https://www.svgrepo.com/show/353659/docker-icon.svg" width="55" height="55" alt="Docker" title="Docker" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/452240/jb-pycharm.svg" width="55" height="55" alt="PyCharm" title="PyCharm" />
+
+<img src="https://skillicons.dev/icons?i=docker,pycharm,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -60,5 +57,19 @@ Apasionado por la programación, el desarrollo web y la creación de soluciones 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true&border_radius=10" alt="Estadísticas de GitHub" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Lenguajes más utilizados" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Siempre aprendiendo y construyendo nuevos proyectos.
+
 </div>
