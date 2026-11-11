@@ -17,7 +17,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://portafolio-or.netlify.app/" target="_blank">
-  <img src="https://www.svgrepo.com/show/50761/portfolio.svg" width="50" height="50" alt="Portafolio" title="Portafolio"/>
+  <img src="https://img.icons8.com/color/96/briefcase.png"
+       width="50"
+       height="50"
+       alt="Portafolio"
+       title="Portafolio"/>
 </a>
 
 </div>
@@ -51,22 +55,6 @@ Apasionado por la programación, el desarrollo web y la creación de soluciones 
 <img src="https://skillicons.dev/icons?i=docker,pycharm,git,github,vscode&theme=dark" />
 
 </div>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true&border_radius=10" alt="Estadísticas de GitHub" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Lenguajes más utilizados" />
-
-</div>
-
----
 
 <div align="center">
 
